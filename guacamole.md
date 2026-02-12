@@ -5,4 +5,5 @@
 *salt
 ## Instructions
 
-* peel the avocado and place in a bowl
+* peel the avocado
+* put avocado in a bowl
